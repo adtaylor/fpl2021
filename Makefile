@@ -1,2 +1,5 @@
 set_env:
-	conda activate fpl_ml
+	conda activate fpl2021
+
+server:
+	streamlit run server.py
